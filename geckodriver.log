@@ -1,0 +1,852 @@
+1614923602067	geckodriver	INFO	Listening on 127.0.0.1:59270
+1614923605108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile8pWqY6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614923607140	Marionette	INFO	Listening on port 59279
+1614923607171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 58ms)
+1614923971570	Marionette	INFO	Stopped listening on port 59279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile9a7LZW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614923843035	Marionette	INFO	Listening on port 59417
+1614923843097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614924993481	Marionette	INFO	Stopped listening on port 59417
+4924212711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileCId06R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614924214724	Marionette	INFO	Listening on port 59637
+1614924214779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614924257788	Marionette	INFO	Stopped listening on port 59637
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614924429093	geckodriver	INFO	Listening on 127.0.0.1:59813
+1614924432132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileAN0v0f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614924434139	Marionette	INFO	Listening on port 59821
+1614924434197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614924446197	Marionette	INFO	Stopped listening on port 59821
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614924483636	geckodriver	INFO	Listening on 127.0.0.1:59938
+1614924486673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofiletrFXA8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614924488540	Marionette	INFO	Listening on port 59947
+1614924488729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614924990822	Marionette	INFO	Stopped listening on port 59947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilewxfX6Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614924574882	Marionette	INFO	Listening on port 60031
+1614924574973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614924582418	Marionette	INFO	Stopped listening on port 60031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614924862626	geckodriver	INFO	Listening on 127.0.0.1:60170
+1614924865661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofiletffrBO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614924867737	Marionette	INFO	Listening on port 60179
+1614924867832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614924939129	Marionette	INFO	Stopped listening on port 60179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile3P7EkE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614924938520	Marionette	INFO	Listening on port 60269
+1614924938615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614924990153	Marionette	INFO	Stopped listening on port 60269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileF1nhXY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614924975589	Marionette	INFO	Listening on port 60354
+1614924975804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614924983729	Marionette	INFO	Stopped listening on port 60354
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614973754906	geckodriver	INFO	Listening on 127.0.0.1:50281
+1614973757940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilefXy7Nw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614973759994	Marionette	INFO	Listening on port 50293
+1614973760122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614973833345	Marionette	INFO	Stopped listening on port 50293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilevuVSnu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614973821275	Marionette	INFO	Listening on port 51842
+1614973821681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.w3schools.com/python/ref_string_split.asp, line 64: ReferenceError: __cmp is not defined
+JavaScript error: https://www.w3schools.com/python/python_while_loops.asp, line 64: ReferenceError: __cmp is not defined
+1614976183453	Marionette	INFO	Stopped listening on port 51842
+ettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614974370306	Marionette	INFO	Listening on port 53380
+1614974370823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614974536732	Marionette	INFO	Stopped listening on port 53380
+1614974561050	geckodriver	INFO	Listening on 127.0.0.1:53904
+1614974564083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileqel13Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614974565972	Marionette	INFO	Listening on port 53918
+1614974566220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614974621133	Marionette	INFO	Stopped listening on port 53918
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614974624319	geckodriver	INFO	Listening on 127.0.0.1:54114
+1614974627361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilesghRGX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614974629345	Marionette	INFO	Listening on port 54124
+1614974629421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614974735579	Marionette	INFO	Stopped listening on port 54124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614974773671	geckodriver	INFO	Listening on 127.0.0.1:54544
+1614974776717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileLwYK6w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614974778631	Marionette	INFO	Listening on port 54564
+1614974778801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1614975006684	Marionette	INFO	Stopped listening on port 54564
+4975003567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileyaMAAo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614975005642	Marionette	INFO	Listening on port 55239
+1614975005739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614975610995	Marionette	INFO	Stopped listening on port 55239
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileIXI1Vz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614975387768	Marionette	INFO	Listening on port 56336
+1614975387792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614976181111	Marionette	INFO	Stopped listening on port 56336
+4975604917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileQcwcZ6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614975606889	Marionette	INFO	Listening on port 56981
+1614975606981	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1614976176118	Marionette	INFO	Stopped listening on port 56981
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ Error("", "(unknown module)"))
+1614975621888	Marionette	INFO	Listening on port 57103
+1614975621919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614975719925	geckodriver	INFO	Listening on 127.0.0.1:57396
+1614975722961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileZrZ70X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614975724895	Marionette	INFO	Listening on port 57414
+1614975725030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614975845232	geckodriver	INFO	Listening on 127.0.0.1:57728
+1614975848271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileOrNl8B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614975850356	Marionette	INFO	Listening on port 57742
+1614975850452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614975961452	geckodriver	INFO	Listening on 127.0.0.1:58072
+1614975964486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile3Q9SQ7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614975966383	Marionette	INFO	Listening on port 58086
+1614975966548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614976173296	Marionette	INFO	Stopped listening on port 58086
+1614976188300	geckodriver	INFO	Listening on 127.0.0.1:58669
+1614976191344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileiGRQeT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614976193149	Marionette	INFO	Listening on port 58684
+1614976193446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614976323774	Marionette	INFO	Stopped listening on port 58684
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614976328022	geckodriver	INFO	Listening on 127.0.0.1:59090
+1614976331067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile4PVZ78"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614976332929	Marionette	INFO	Listening on port 59105
+1614976333112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614976392371	Marionette	INFO	Stopped listening on port 59105
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614976399999	geckodriver	INFO	Listening on 127.0.0.1:59327
+1614976403037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile7OFP4h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614976404948	Marionette	INFO	Listening on port 59340
+1614976405105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614976459804	Marionette	INFO	Stopped listening on port 59340
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614976464054	geckodriver	INFO	Listening on 127.0.0.1:59562
+1614976467104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileLQdUnO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614976468954	Marionette	INFO	Listening on port 59575
+1614976469183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][Dis1614978358983	Marionette	INFO	Stopped listening on port 50815
+rocessing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1614978357771	Marionette	INFO	Stopped listening on port 59575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614978362691	geckodriver	INFO	Listening on 127.0.0.1:51211
+1614978365738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileGfVgno"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614978367665	Marionette	INFO	Listening on port 51225
+1614978367815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614978390899	Marionette	INFO	Stopped listening on port 51225
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614978396886	geckodriver	INFO	Listening on 127.0.0.1:51380
+1614978399925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilecUIo01"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614978401805	Marionette	INFO	Listening on port 51400
+1614978402028	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1614978730299	Marionette	INFO	Stopped listening on port 51400
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+1614979370108	Marionette	INFO	Stopped listening on port 51558
+4978756817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofiler6Ntyb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614978758858	Marionette	INFO	Listening on port 52402
+1614978758890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614978915366	Marionette	INFO	Stopped listening on port 52402
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileXK5lYp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614978878327	Marionette	INFO	Listening on port 52752
+1614978878461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1614979365987	Marionette	INFO	Stopped listening on port 52752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614979381443	geckodriver	INFO	Listening on 127.0.0.1:54074
+1614979384474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile02nsu4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614979386521	Marionette	INFO	Listening on port 54088
+1614979386651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614979534289	Marionette	INFO	Stopped listening on port 54081614979535664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile0l6SZv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614979537558	Marionette	INFO	Listening on port 54492
+1614979537735	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1614979737457	Marionette	INFO	Stopped listening on port 54492
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614979742225	geckodriver	INFO	Listening on 127.0.0.1:55002
+1614979745255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileEgQlEG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614979747259	Marionette	INFO	Listening on port 55020
+1614979747322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614979857050	geckodriver	INFO	Listening on 127.0.0.1:55337
+1614979860087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileyh2lOw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614979861994	Marionette	INFO	Listening on port 55358
+1614979862153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614979971773	geckodriver	INFO	Listening on 127.0.0.1:55681
+1614979974808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilecsWPy6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614979977157	Marionette	INFO	Listening on port 55695
+1614979977483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614980114473	geckodriver	INFO	Listening on 127.0.0.1:56090
+1614980117508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilecIypXF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614980119285	Marionette	INFO	Listening on port 56106
+1614980119569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1614980718304	geckodriver	INFO	Listening on 127.0.0.1:57503
+1614980721346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilevlP63r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614980723338	Marionette	INFO	Listening on port 57515
+1614980723407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614981097864	geckodriver	INFO	Listening on 127.0.0.1:61044
+1614981100901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile0epxj5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614981102685	Marionette	INFO	Listening on port 61061
+1614981102960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614981685475	Marionette	INFO	Stopped listening on port 61061
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilec3zXnn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614981146518	Marionette	INFO	Listening on port 61240
+1614981146670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614981310877	geckodriver	INFO	Listening on 127.0.0.1:61673
+1614981323931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilev7zr9c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614981325793	Marionette	INFO	Listening on port 61689
+1614981326007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614981689856	geckodriver	INFO	Listening on 127.0.0.1:63782
+1614981692902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileXcvh1I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614981694951	Marionette	INFO	Listening on port 63798
+1614981695079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614982609754	Marionette	INFO	Stopped listening on port 63798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614982653619	geckodriver	INFO	Listening on 127.0.0.1:49633
+1614982656658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofiletkAqN9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614982658616	Marionette	INFO	Listening on port 49644
+1614982658714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614983029252	Marionette	INFO	Stopped listening on port 49644
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614983037988	geckodriver	INFO	Listening on 127.0.0.1:50613
+1614983041035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile0oZttm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614983042981	Marionette	INFO	Listening on port 50628
+1614983043096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+1614983197316	geckodriver	INFO	Listening on 127.0.0.1:51038
+1614983200363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileJzUW8n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614983202210	Marionette	INFO	Listening on port 51047
+1614983202431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614983264290	Marionette	INFO	Stopped listening on port 51047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614983267480	geckodriver	INFO	Listening on 127.0.0.1:51262
+1614983270521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilelQKOnK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614983272321	Marionette	INFO	Listening on port 51278
+1614983272582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614984268217	Marionette	INFO	Stopped listening on port 51278
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile7VGc9a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614983634452	Marionette	INFO	Listening on port 52175
+1614983634977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614984264947	Marionette	INFO	Stopped listening on port 52175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilemeIA5X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614983733953	Marionette	INFO	Listening on port 52472
+1614983734096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1614983903942	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614983915532	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614983927154	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614983938744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614983950322	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1614984037040	Marionette	INFO	Stopped listening on port 52472
+1614984263337	geckodriver	INFO	Listening on 127.0.0.1:53741
+1614984266384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilekMMOQk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614984268302	Marionette	INFO	Listening on port 53757
+1614984268467	Marionette	WARN	TLS certificate errors will be ignored for this session
