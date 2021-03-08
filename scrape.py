@@ -17,16 +17,6 @@ from selenium.webdriver.common.keys import Keys
 
 # TO GET GECKODRIVER.EXE yourself DOWNLOAD THIS THING HERE https://github.com/mozilla/geckodriver/releases and save it on your comp
 
-
-# returns a tuple (x,y,z). Displaying x to y of z results
-def parse_result_count(display_results_string: str) -> tuple:
-    # Need to replace the ',' in numbers > 999 to parse correctly
-    x = int(display_results_string.split(" ")[1].replace(',', ''))
-    y = int(display_results_string.split(" ")[3].replace(',', ''))
-    z = int(display_results_string.split(" ")[5].replace(',', ''))
-    return (x, y, z)
-
-
 def accept_terms(driver) -> None:
     accept_button = driver.find_element_by_id('ctl00_mainContentArea_disclaimerContent_yesButton')
     accept_button.click()
@@ -37,7 +27,31 @@ def get_details_in_table(driver) -> list:
     while True:
         for row in driver.find_elements_by_tag_name('tr'):
             row_data = row.find_elements_by_tag_name('td')
-            print(len(row_data))
+            if len(row_data) != 12:
+                pass
+
+        if not click_next_page(driver):
+            return details
+
+
+# click_next_page selects the next button, returns true if clicked
+def click_next_page(driver) -> bool:
+    # find 'next' button to get the next list
+    try:
+        next_button = driver.find_element_by_class_name('next')
+    except NoSuchElementException:
+        print("no items on this page: ", driver.current_url)
+        return False
+
+    # Check if we can go to the next page or not
+    attributes = next_button.get_attribute('class').split(" ")
+    for attr in attributes:
+        if attr == "disabled":
+            return False
+
+    # go to next page
+    next_button.click()
+    return True
 
 
 def get_links_in_table(driver) -> list:
@@ -52,21 +66,8 @@ def get_links_in_table(driver) -> list:
             except NoSuchElementException:
                 pass
 
-        # find 'next' button to get the next list
-        try:
-            next_button = driver.find_element_by_class_name('next')
-        except NoSuchElementException:
-            print("no items on this page: ", driver.current_url)
+        if not click_next_page(driver):
             return links
-
-        # Check if we can go to the next page or not
-        attributes = next_button.get_attribute('class').split(" ")
-        for attr in attributes:
-            if attr == "disabled":
-                return links
-
-        # go to next page
-        next_button.click()
 
 
 def scrape_for_links_to_details(driver, links_to_issuers) -> list:
