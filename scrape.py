@@ -22,18 +22,6 @@ def accept_terms(driver) -> None:
     accept_button.click()
 
 
-def get_details_in_table(driver) -> list:
-    details = []
-    while True:
-        for row in driver.find_elements_by_tag_name('tr'):
-            row_data = row.find_elements_by_tag_name('td')
-            if len(row_data) != 12:
-                pass
-
-        if not click_next_page(driver):
-            return details
-
-
 # click_next_page selects the next button, returns true if clicked
 def click_next_page(driver) -> bool:
     # find 'next' button to get the next list
@@ -52,6 +40,37 @@ def click_next_page(driver) -> bool:
     # go to next page
     next_button.click()
     return True
+
+
+def get_details_in_table(driver) -> list:
+    details = []
+    while True:
+        for row in driver.find_elements_by_tag_name('tr'):
+            row_data = row.find_elements_by_tag_name('td')
+            print(len(row_data))
+            if len(row_data) != 12:
+                pass
+            else:
+                # the cusip is usally a link
+                detail = {
+                    "CUSIP": 'TODO',
+                    "Principle Amount at Issuance ($)": row_data[1].text,
+                    "Security Description": row_data[2].text,
+                    "Coupon": row_data[3].text,
+                    "Maturity Date": row_data[4].text,
+                    "Price/Yield": row_data[5].text,
+                    "Price": row_data[6].text,
+                    "Yield": row_data[7].text,
+                    "Fitch": row_data[8].text,
+                    "KBRA": row_data[9].text,
+                    "Moody's": row_data[10].text,
+                    "S&P": row_data[11].text,
+                }
+                details.append(detail)
+                print(detail)
+
+        if not click_next_page(driver):
+            return details
 
 
 def get_links_in_table(driver) -> list:
@@ -76,16 +95,17 @@ def scrape_for_links_to_details(driver, links_to_issuers) -> list:
         print("getting link to details on link", index, "of", len(links_to_issuers))
         driver.get(link)
         links_to_details.extend(get_links_in_table(driver))
-        print("current detail count", len(links_to_details))
+        print("current detail link count", len(links_to_details))
     return links_to_details
 
 
 def scrape_for_details(driver, links_to_details) -> list:
     details = []
     for index, link in enumerate(links_to_details):
-        print("getting details on link", index, "of", len(links_to_details))
         driver.get(link)
+        print("getting details on link", index, "of", len(links_to_details))
         details.extend(get_details_in_table(driver))
+        print("current detail count", len(details))
 
 
 if __name__ == "__main__":
@@ -107,6 +127,8 @@ if __name__ == "__main__":
     try:
         with open(LINKS_TO_ISSUERS_FILE) as json_file:
             links_to_issuers = json.load(json_file)
+            if links_to_issuers is None:
+                raise FileNotFoundError
     except FileNotFoundError:
         print(f"no {LINKS_TO_ISSUERS_FILE}.....scraping website for new data")
         links_to_issuers = get_links_in_table(driver)
@@ -122,19 +144,29 @@ if __name__ == "__main__":
     try:
         with open(LINKS_TO_ISSUERS_DETAILS_FILE) as json_file:
             links_to_details = json.load(json_file)
+            if links_to_details is None:
+                raise FileNotFoundError
     except FileNotFoundError:
         print(f"no {LINKS_TO_ISSUERS_DETAILS_FILE}...scraping website for new data")
         links_to_details = scrape_for_links_to_details(driver, links_to_issuers)
-        # Save details
+        # Save links to details
         with open(LINKS_TO_ISSUERS_DETAILS_FILE, 'w') as details_links_file:
             json.dump(links_to_details, details_links_file, indent=4)
 
-    print(links_to_details)
+    links_to_details = ["https://emma.msrb.org/IssueView/Details/MS166977"]
 
+    # Go inside each issue detail and get the data from the final table
+
+    driver.implicitly_wait(1)
     details = []
     try:
-        with open(DETAILS_JSON_FILE) as json_file:
-            details = json.load(json_file)
+        with open(DETAILS_JSON_FILE) as details_json_file:
+            details = json.load(details_json_file)
+            if details is None:
+                raise FileNotFoundError
     except FileNotFoundError:
         print(f"no {DETAILS_JSON_FILE}...scraping website for new data")
         details = scrape_for_details(driver, links_to_details)
+        # save details
+        with open(DETAILS_JSON_FILE, 'w') as details_json_file:
+            json.dump(details, details_json_file, indent=4)
