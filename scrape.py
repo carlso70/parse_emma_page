@@ -32,7 +32,15 @@ def accept_terms(driver) -> None:
     accept_button.click()
 
 
-def get_links_in_table(driver, table_id) -> list:
+def get_details_in_table(driver) -> list:
+    details = []
+    while True:
+        for row in driver.find_elements_by_tag_name('tr'):
+            row_data = row.find_elements_by_tag_name('td')
+            print(len(row_data))
+
+
+def get_links_in_table(driver) -> list:
     # get the details, this code pretty much the same as the issuers
     links = []
     while True:
@@ -64,19 +72,25 @@ def get_links_in_table(driver, table_id) -> list:
 def scrape_for_links_to_details(driver, links_to_issuers) -> list:
     links_to_details = []
     for index, link in enumerate(links_to_issuers):
-        print("getting details on link", index, "of", len(links_to_issuers))
+        print("getting link to details on link", index, "of", len(links_to_issuers))
         driver.get(link)
-        links_to_details.extend(get_links_in_table(driver, ISSUER_PAGE_DETAIL_LINK_TABLE_ID))
+        links_to_details.extend(get_links_in_table(driver))
         print("current detail count", len(links_to_details))
     return links_to_details
 
 
-if __name__ == "__main__":
-    MAIN_PAGE_ISSUER_LINK_TABLE_ID = 'lvIssuers'
-    ISSUER_PAGE_DETAIL_LINK_TABLE_ID = 'lvIssues'
+def scrape_for_details(driver, links_to_details) -> list:
+    details = []
+    for index, link in enumerate(links_to_details):
+        print("getting details on link", index, "of", len(links_to_details))
+        driver.get(link)
+        details.extend(get_details_in_table(driver))
 
+
+if __name__ == "__main__":
     LINKS_TO_ISSUERS_FILE = "links_to_issuers.json"
     LINKS_TO_ISSUERS_DETAILS_FILE = "links_to_issuers_details.json"
+    DETAILS_JSON_FILE = "details.json"
 
     driver = webdriver.Firefox(executable_path='.\geckodriver.exe')
     driver.maximize_window()  # maximize so all elements are clickable
@@ -94,7 +108,7 @@ if __name__ == "__main__":
             links_to_issuers = json.load(json_file)
     except FileNotFoundError:
         print(f"no {LINKS_TO_ISSUERS_FILE}.....scraping website for new data")
-        links_to_issuers = get_links_in_table(driver, MAIN_PAGE_ISSUER_LINK_TABLE_ID)
+        links_to_issuers = get_links_in_table(driver)
 
         # Save issuers links
         with open(LINKS_TO_ISSUERS_FILE, 'w') as issuer_link_file:
@@ -115,5 +129,11 @@ if __name__ == "__main__":
             json.dump(links_to_details, details_links_file, indent=4)
 
     print(links_to_details)
-    
 
+    details = []
+    try:
+        with open(DETAILS_JSON_FILE) as json_file:
+            details = json.load(json_file)
+    except FileNotFoundError:
+        print(f"no {DETAILS_JSON_FILE}...scraping website for new data")
+        details = scrape_for_details(driver, links_to_details)

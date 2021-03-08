@@ -1570,3 +1570,21 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1615165112977	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
 http://requirejs.org/docs/errors.html#scripterror
+1615176437656	geckodriver	INFO	Listening on 127.0.0.1:64129
+1615176440696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile9mTOAl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615176442727	Marionette	INFO	Listening on port 64139
+1615176442758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615176621821	Marionette	INFO	Stopped listening on port 64139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615176855187	geckodriver	INFO	Listening on 127.0.0.1:49728
+1615176858231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileOMIdEy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615176860423	Marionette	INFO	Listening on port 49743
+1615176860907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615177722352	Marionette	INFO	Stopped listening on port 49743
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
