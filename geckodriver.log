@@ -850,3 +850,723 @@ http://requirejs.org/docs/errors.html#scripterror
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1614984268302	Marionette	INFO	Listening on port 53757
 1614984268467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615059969249	Marionette	INFO	Stopped listening on port 53757
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615150781423	geckodriver	INFO	Listening on 127.0.0.1:60445
+1615150784462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileUjNtK5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615150786548	Marionette	INFO	Listening on port 60459
+1615150786633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615151454479	Marionette	INFO	Stopped listening on port 60459
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile29SaI7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615151135402	Marionette	INFO	Listening on port 61136
+1615151135452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615151462578	geckodriver	INFO	Listening on 127.0.0.1:61976
+1615151465636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileLZkjkh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615151467740	Marionette	INFO	Listening on port 61992
+1615151467808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615151507360	geckodriver	INFO	Listening on 127.0.0.1:62115
+1615151510403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileA0ncdK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615151512357	Marionette	INFO	Listening on port 62126
+1615151512469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615152324139	Marionette	INFO	Stopped listening on port 62126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilew9BjUX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615151672109	Marionette	INFO	Listening on port 62494
+1615151672146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615152328647	Marionette	INFO	Stopped listening on port 62494
+5151996877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileMQ28O6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615151999068	Marionette	INFO	Listening on port 63200
+1615151999556	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1615152668336	Marionette	INFO	Stopped listening on port 63200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615152695197	geckodriver	INFO	Listening on 127.0.0.1:50732
+1615152698237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileBV5MiB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615152700325	Marionette	INFO	Listening on port 50747
+1615152700416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615153260110	Marionette	INFO	Stopped listening on port 50747
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615153265524	geckodriver	INFO	Listening on 127.0.0.1:53125
+1615153268568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileu7a9td"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615153270536	Marionette	INFO	Listening on port 53141
+1615153270630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerPage.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+1615153455572	geckodriver	INFO	Listening on 127.0.0.1:53523
+1615153458605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileRLAse1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615153460518	Marionette	INFO	Listening on port 53536
+1615153460667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: config
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+1615153647406	geckodriver	INFO	Listening on 127.0.0.1:53984
+1615153650451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilenYIL9n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615153652340	Marionette	INFO	Listening on port 53994
+1615153652517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615153836287	Marionette	INFO	Stopped listening on port 53994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615153840719	geckodriver	INFO	Listening on 127.0.0.1:54422
+1615153843753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile3SLyv6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615153845803	Marionette	INFO	Listening on port 54445
+1615153845926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615153880158	Marionette	INFO	Stopped listening on port 54445
+1615153889899	geckodriver	INFO	Listening on 127.0.0.1:54588
+1615153892931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilecIcUvE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615153894845	Marionette	INFO	Listening on port 54635
+1615153894994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615153989038	Marionette	INFO	Stopped listening on port 54635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615153996006	geckodriver	INFO	Listening on 127.0.0.1:54921
+1615153999046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileiZvOCN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615154000941	Marionette	INFO	Listening on port 54932
+1615154001110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.w3schools.com/css/css_selectors.asp, line 64: ReferenceError: __cmp is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615154558862	Marionette	INFO	Stopped listening on port 54932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Marionette	INFO	Listening on port 56002
+1615154390675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615154563590	Marionette	INFO	Stopped listening on port 56002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+615154430666	Marionette	INFO	Listening on port 56162
+1615154430740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615154561447	Marionette	INFO	Stopped listening on port 56162
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615154572321	geckodriver	INFO	Listening on 127.0.0.1:56521
+1615154575359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileGv5301"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615154577267	Marionette	INFO	Listening on port 56536
+1615154577445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: HandlerIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615165035216	Marionette	INFO	Stopped listening on port 56982
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615165021341	Marionette	INFO	Stopped listening on port 57412
+5155007996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile8E7R6g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615155009974	Marionette	INFO	Listening on port 57573
+1615155010059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615155048409	geckodriver	INFO	Listening on 127.0.0.1:57709
+1615155051455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofilet0CIEn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615155053443	Marionette	INFO	Listening on port 57725
+1615155053519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615155070522	geckodriver	INFO	Listening on 127.0.0.1:57831
+1615155073564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileiMBHdy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615155075446	Marionette	INFO	Listening on port 57842
+1615155075628	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was1615155338788	Marionette	INFO	Listening on port 58436
+1615155339279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615165132175	Marionette	INFO	Stopped listening on port 58436
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615155338600	Marionette	INFO	Stopped listening on port 57842
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615155472863	geckodriver	INFO	Listening on 127.0.0.1:58759
+1615155475897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileJCLFSc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615155477860	Marionette	INFO	Listening on port 58774
+1615155477959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615155782762	geckodriver	INFO	Listening on 127.0.0.1:59447
+1615155785806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileAHd3rM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615155787993	Marionette	INFO	Listening on port 59461
+1615155788484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615158025533	geckodriver	INFO	Listening on 127.0.0.1:50854
+1615158028573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileDQ7Rlh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615158030691	Marionette	INFO	Listening on port 50866
+1615158030748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-243-P2
+http://requirejs.org/docs/errors.html#scripterror
+1615165031930	geckodriver	INFO	Listening on 127.0.0.1:52666
+1615165034971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileXKUmqc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615165037014	Marionette	INFO	Listening on port 52677
+1615165037140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/targetUrl
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+1615165075765	geckodriver	INFO	Listening on 127.0.0.1:52808
+1615165078796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofileGlitdV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615165080602	Marionette	INFO	Listening on port 52822
+1615165080864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: issuer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/domReady
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/qTipHover
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: common/fmt
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: lib/numeral
+http://requirejs.org/docs/errors.html#scripterror
+1615165107867	geckodriver	INFO	Listening on 127.0.0.1:52936
+1615165110910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAMESR~1\\AppData\\Local\\Temp\\rust_mozprofile4BLPKE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615165112936	Marionette	INFO	Listening on port 52947
+1615165112977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://emma.msrb.org/app/lib/require.js, line 8: Error: Script error for: /app/issuerHomePageAMD.js?v=1.0.9020-.39-P2
+http://requirejs.org/docs/errors.html#scripterror
