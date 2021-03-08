@@ -2,6 +2,8 @@ import json
 import os
 import re
 from typing import Tuple, cast
+import time
+
 
 import pandas as pd
 import requests
@@ -45,9 +47,9 @@ def click_next_page(driver) -> bool:
 def get_details_in_table(driver) -> list:
     details = []
     while True:
+        time.sleep(0.5) # if there is no sleep the table doesn't load in time....very annoying
         for row in driver.find_elements_by_tag_name('tr'):
             row_data = row.find_elements_by_tag_name('td')
-            print(len(row_data))
             if len(row_data) != 12:
                 pass
             else:
@@ -67,7 +69,6 @@ def get_details_in_table(driver) -> list:
                     "S&P": row_data[11].text,
                 }
                 details.append(detail)
-                print(detail)
 
         if not click_next_page(driver):
             return details
@@ -152,8 +153,6 @@ if __name__ == "__main__":
         # Save links to details
         with open(LINKS_TO_ISSUERS_DETAILS_FILE, 'w') as details_links_file:
             json.dump(links_to_details, details_links_file, indent=4)
-
-    links_to_details = ["https://emma.msrb.org/IssueView/Details/MS166977"]
 
     # Go inside each issue detail and get the data from the final table
 
