@@ -1,4 +1,5 @@
 import json
+from queue import Empty
 import time
 import multiprocessing as mp
 import sys
@@ -8,11 +9,15 @@ import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.common.exceptions import (NoSuchElementException,
-                                        StaleElementReferenceException)
+                                        StaleElementReferenceException, TimeoutException)
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options
 
 # We use selenium to automate some web browser stuff that beautiful soup can't.
 # That means we can click the javascript links on the website (ex: click accept terms and agreement stuff)
+LINKS_TO_ISSUERS_FILE = "links_to_issuers.json"
+LINKS_TO_ISSUERS_DETAILS_FILE = "links_to_issuers_details.json"
+DETAILS_JSON_FILE = "details.json"
 
 
 # TO GET GECKODRIVER.EXE yourself DOWNLOAD THIS THING HERE https://github.com/mozilla/geckodriver/releases and save it on your comp
@@ -99,7 +104,7 @@ def scrape_for_links_to_details(driver, links_to_issuers) -> list:
 
 
 # spawned using the multiprocessing library
-def scrape_for_details(links_to_details, result_queue, start_index, end_index, process_index) -> list:
+def scrape_for_details(links_to_details, result_queue, start_index, end_index, process_index):
     d = new_driver()
     try:
         d.get(links_to_details[start_index])
@@ -109,17 +114,28 @@ def scrape_for_details(links_to_details, result_queue, start_index, end_index, p
         pass
 
     details = []
-    while start_index < end_index or start_index >= len(links_to_details):
-        d.get(links_to_details[start_index])
+    index = start_index
+    while index < end_index and index < len(links_to_details):
+        link = links_to_details[index]
+        try:
+            d.get(link)
+        except TimeoutException:
+            print(f"timeout on first link load {link}...trying again")
+            d.get(link)
+
         details.extend(get_details_in_table(d))
-        start_index += 1
-        print(f"process {process_index} is %{start_index/end_index} done")
-        sys.stdout.flush()  # need this for subprocess to clear output buffer and to actually see logs
+        index += 1
+        if index % 10 == 0:
+            print(f"process {process_index} is {index-start_index}/{end_index-start_index} done. {len(details)} details found")
+            sys.stdout.flush()  # need this for subprocess to clear output buffer and to actually see logs
+
+    # save details
+    with open(f"{DETAILS_JSON_FILE}_{process_index}", 'w') as details_json_file:
+        json.dump(details, details_json_file, indent=4)
 
     result_queue.put(details)
 
 
-# new_driver() loads the main page and accepts terms
 def new_driver() -> webdriver:
     driver = webdriver.Firefox(executable_path='.\geckodriver.exe')
     driver.maximize_window()  # maximize so all elements are clickable
@@ -127,10 +143,6 @@ def new_driver() -> webdriver:
 
 
 if __name__ == "__main__":
-    LINKS_TO_ISSUERS_FILE = "links_to_issuers.json"
-    LINKS_TO_ISSUERS_DETAILS_FILE = "links_to_issuers_details.json"
-    DETAILS_JSON_FILE = "details.json"
-
     driver = new_driver()
 
     # Get website loaded
@@ -173,29 +185,32 @@ if __name__ == "__main__":
 
     # Go inside each issue detail and get the data from the final table
 
+    links_to_details = ["https://emma.msrb.org/IssueView/Details/FA20BE291D341D8FFAA32BC604F114C0"]
+
     details = []
     try:
         with open(DETAILS_JSON_FILE) as details_json_file:
             details = json.load(details_json_file)
-            if details is None:
+            if details is None or len(details) == 0:
                 raise FileNotFoundError
-    except FileNotFoundError:
+    except (FileNotFoundError, json.decoder.JSONDecodeError):
         print(f"no {DETAILS_JSON_FILE}...scraping website for new data")
 
         result_queue = mp.Queue()
         process_list = []
-        process_count = int(10)
+        process_count = int(8)
         chunk_size = int(len(links_to_details) / process_count) + len(links_to_details) % process_count
 
         # create threads to get details
         for i in range(process_count):
             start_index = i * chunk_size
             end_index = start_index + chunk_size
-            p = mp.Process(
-                target=scrape_for_details,
-                args=(links_to_details, result_queue, start_index, end_index, i)
-            )
-            process_list.append(p)
+            if start_index < len(links_to_details):
+                p = mp.Process(
+                    target=scrape_for_details,
+                    args=(links_to_details, result_queue, start_index, end_index, i)
+                )
+                process_list.append(p)
 
         # start all processes
         for p in process_list:
@@ -209,5 +224,6 @@ if __name__ == "__main__":
 
         # save details
         with open(DETAILS_JSON_FILE, 'w') as details_json_file:
-            details = list(result_queue.queue)
+            while result_queue.qsize() != 0:
+                details.extend(result_queue.get())
             json.dump(details, details_json_file, indent=4)
