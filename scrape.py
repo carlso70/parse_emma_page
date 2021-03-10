@@ -3,6 +3,7 @@ from queue import Empty
 import time
 import multiprocessing as mp
 import sys
+import os
 
 import pandas as pd
 import requests
@@ -220,8 +221,19 @@ if __name__ == "__main__":
 
         print("all details processes done")
 
-        # save details
-        with open(DETAILS_JSON_FILE, 'w') as details_json_file:
-            while result_queue.qsize() != 0:
-                details.extend(result_queue.get())
-            json.dump(details, details_json_file, indent=4)
+    # todo fix the result queue stuff
+    # save details
+    # with open(DETAILS_JSON_FILE, 'w') as details_json_file:
+    #     while result_queue.qsize() != 0:
+    #         details.extend(result_queue.get())
+    #     json.dump(details, details_json_file, indent=4)
+
+    # combine all detail_process_index files
+    for entry in os.listdir('./'):
+        if os.path.isfile(entry) and f"{DETAILS_JSON_FILE}_" in entry:
+            # this is a details.json_{process_index} file, combine it to giant list and save that as final output
+            with open(entry) as json_file:
+                details.extend(json.load(json_file))
+
+    with open(DETAILS_JSON_FILE, 'w') as details_json_file:
+        json.dump(details, details_json_file, indent=4)
