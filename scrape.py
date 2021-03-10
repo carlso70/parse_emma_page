@@ -185,8 +185,6 @@ if __name__ == "__main__":
 
     # Go inside each issue detail and get the data from the final table
 
-    links_to_details = ["https://emma.msrb.org/IssueView/Details/FA20BE291D341D8FFAA32BC604F114C0"]
-
     details = []
     try:
         with open(DETAILS_JSON_FILE) as details_json_file:
@@ -198,7 +196,7 @@ if __name__ == "__main__":
 
         result_queue = mp.Queue()
         process_list = []
-        process_count = int(8)
+        process_count = int(15)
         chunk_size = int(len(links_to_details) / process_count) + len(links_to_details) % process_count
 
         # create threads to get details
